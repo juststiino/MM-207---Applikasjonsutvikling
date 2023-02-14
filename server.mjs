@@ -1,5 +1,5 @@
 import express from 'express'
-import * as randomRouter from "./routes/random.mjs"
+//import * as randomRouter from "./routes/random.mjs"
 
 const server = express();
 const port = (process.env.PORT || 8080);
